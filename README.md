@@ -1,3 +1,5 @@
+Warning: This register has been deprecated as we have switched to solero/dash's built-in register.
+
 # Register
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/20937618fc8a4703af4fa57b93fa9768)](https://app.codacy.com/gh/frostygg/register?utm_source=github.com&utm_medium=referral&utm_content=frostygg/register&utm_campaign=Badge_Grade_Settings)
